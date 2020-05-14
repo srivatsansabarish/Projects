@@ -1,0 +1,10 @@
+
+## Objective : To show users most relevant posts at the top, basis his past interaction with the app.
+####Database of 10k rows with random data for users.¶
+#### Relevant post : The post he is most likely to interact with.
+
+Step 1 : Determine input variables like upvote, downvote, time spent on post, etc.(Use the app to find out more input variables) by a user for every post
+
+Step 2 : Populate these variables with random data for each of the user
+
+Step 3 : Based on the analysis of the data, create a mathematical formula to rank each post (Top ranked most will be shown to the user at first )
