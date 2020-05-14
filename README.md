@@ -16,4 +16,5 @@ Medium blog - https://medium.com/@srivatsansabarish/whatsapp-group-chat-analysis
 #### 6. Web Scraping Analytics Vidhya Articles
 #### 7. Revidly Internship
 Task 1 : To show users most relevant posts at the top, basis his past interaction with the app.
+
 Task 2 : IMDB - Data Analysis
