@@ -1,1 +1,20 @@
+## IMDB - Data Analysis 
 
+## Task:
+
+You need to work on IMDB data to prepare insights on Titles (movies and TV shows)
+You need to analyse data to bright out the following insights:
+
+1. Which Genre gets the maximum votes?
+2. Which actor - director pair is most successful (in terms of IMDB ratings)?
+3. Male leads are most successful in which age bracket?
+4. For TV shows, what is the avg episode duration of the best TV shows?
+5. Best TV shows last for how many seasons?
+6. In which year maximum TV shows ended?
+7.  What factors lead to higher rating
+
+Link for data:
+https://www.imdb.com/interfaces/
+
+You can assume details, if any, that is missing in this task.
+Just state your assumptions in your submission.
