@@ -14,7 +14,8 @@ Extracting Group chat from Whatsapp and analysing it.
 Medium blog - https://medium.com/@srivatsansabarish/whatsapp-group-chat-analysis-using-python-91d1f49178cb?source=friends_link&sk=a558e2bb94a21f430020cbde926b5275
 
 #### 6. Web Scraping Analytics Vidhya Articles
-#### 7. Revidly Internship
+#### 7. Sentiment Analysis of Cricket WorldCup 2019 Tweets
+#### 8. Revidly Internship
 Task 1 : To show users most relevant posts at the top, basis his past interaction with the app.
 
 Task 2 : IMDB - Data Analysis
